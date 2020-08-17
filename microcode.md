@@ -29,6 +29,7 @@ Vendors to include:
 
 Additional options which are directly passed to [iucode-tool](http://manpages.ubuntu.com/manpages/trusty/man8/iucode-tool.8.html) to select specific cpus by their `CPUID`
 
+A list of intel cpu families and their CPUID can be found in [SA00233-microcode-update-guidance.pdf](https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/SA00233-microcode-update-guidance.pdf).
 
 ### Example ###
 
